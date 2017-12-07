@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="pbDBModelStoreContainer" CdmEntityContainer="pbDBEntities">
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="pbDBModel.Order">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="Crust" ColumnName="Crust" />
+          <ScalarProperty Name="Sausage" ColumnName="Sausage" />
+          <ScalarProperty Name="Pepperoni" ColumnName="Pepperoni" />
+          <ScalarProperty Name="Onions" ColumnName="Onions" />
+          <ScalarProperty Name="Green_Peppers" ColumnName="Green Peppers" />
+          <ScalarProperty Name="TotalCost" ColumnName="TotalCost" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Zip" ColumnName="Zip" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="PaymentType" ColumnName="PaymentType" />
+          <ScalarProperty Name="Completed" ColumnName="Completed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

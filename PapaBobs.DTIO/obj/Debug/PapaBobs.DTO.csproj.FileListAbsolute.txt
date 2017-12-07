@@ -1,0 +1,4 @@
+C:\Users\Student\Desktop\PapaBobs_MC_070\PapaBobs.DTIO\bin\Debug\PapaBobs.DTIO.dll
+C:\Users\Student\Desktop\PapaBobs_MC_070\PapaBobs.DTIO\bin\Debug\PapaBobs.DTIO.pdb
+C:\Users\Student\Desktop\PapaBobs_MC_070\PapaBobs.DTIO\obj\Debug\PapaBobs.DTIO.dll
+C:\Users\Student\Desktop\PapaBobs_MC_070\PapaBobs.DTIO\obj\Debug\PapaBobs.DTIO.pdb
